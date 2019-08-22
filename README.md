@@ -1,4 +1,4 @@
-# index 
+# Today I learned 
 
 - [html](./HTML/)
 - JavaScript
