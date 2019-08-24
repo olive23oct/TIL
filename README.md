@@ -1,6 +1,6 @@
 # Today I learned 
 
-- [Obejct-Oriented].()
+- Obejct-Oriented
 - [html](./HTML/)
 - JavaScript
 - React
