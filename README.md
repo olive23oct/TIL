@@ -10,3 +10,4 @@
 - DataBase
     - SQL
 - HTTP    
+- 면접용 
