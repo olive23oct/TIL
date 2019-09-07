@@ -8,7 +8,7 @@
     - 라우터 : react-router
     - Ajax : axios, fetch
     - 상태관리 : redux, MobX
-    
+
 ##### component 
 - 특정 부분이 어떻게 생겨야할지 정하는 선언체
 - 재사용이 가능한 API로 수많은 기능 내장
@@ -48,4 +48,18 @@
 - node.js 설치
     - npm(node package manager) 자동 설치 
 - 노드 버전 확인 : node -v
-- cra 설치 : npm install -g create-react-app
+- create-react-app
+    ```bash
+    yarn global add create-react-app
+    # 또는
+    npm install -g create-react-app
+    ```
+- 프로젝트 생성
+    ```bash
+    npx create-react-app # 프로젝트명
+    ```
+- 프로젝트 개발 서버 실행    
+    ```bash
+    cd # 프로젝트명
+    npm start
+    ```   
