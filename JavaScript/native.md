@@ -18,8 +18,7 @@
 var a = new String("abc");
 type of a; // "object" String이 아님
 
-/* new String("abc")는 "abc"를 감싸는 문자열 래퍼를 생성하며  
-원시 값 "abc"는 아니다 */ 
+/* new String("abc")는 "abc"를 감싸는 문자열 래퍼를 생성하며 원시 값 "abc"는 아니다 */ 
 ```
 ***
 
@@ -40,7 +39,7 @@ var a = "abc";
 var b = new String( a );
 var c = Object( a );
 
-typeof a; // "string
+typeof a; // "string"
 typeof b; // "object"
 typeof c; // "object"
 ```
