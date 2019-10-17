@@ -79,7 +79,7 @@ var b = res.b;
 - [연산자우선순위](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/%EC%97%B0%EC%82%B0%EC%9E%90_%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84)
 
 |우선순위|연산자|결합법칙|
-|---|---|---|---|
+|---|---|---|
 |1|()(그룹연산자)|없음|
 |2|., []|왼쪽->오른쪽|
 |2|new(인수 있음)|오른쪽->왼쪽|
