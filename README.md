@@ -2,11 +2,11 @@
 
 - Obejct-Oriented
 - [html](./HTML/)
-- JavaScript
+- JavaScript(./JavaScript)
 - React
 - [Java](./Java/)
 - Spring 
-- SpringBoot
+- SpringBoot(./SpringBoot)
 - DataBase
     - SQL
 - HTTP    
