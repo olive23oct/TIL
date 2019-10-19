@@ -1,12 +1,12 @@
 # Today I learned 
 
-- Obejct-Oriented
+- [Obejct-Oriented](./Obejct-Oriented)
 - [html](./HTML/)
-- JavaScript(./JavaScript)
+- [JavaScript](./JavaScript)
 - React
 - [Java](./Java/)
 - Spring 
-- SpringBoot(./SpringBoot)
+- [SpringBoot](./SpringBoot)
 - DataBase
     - SQL
 - HTTP    
