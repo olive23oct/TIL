@@ -1,12 +1,4 @@
 # 2019.10.19
-
-- @Entity
-- @GeneratedValue(strategy =  GenerationType.IDENTITY) : 유니크한 값 자동생성
-
-- @OneToMany(fetch = FetchType.EAGER or LAZY)
-    - eager 
-    - lazy 
-- @Configuration
         
 # Redis
 - open source
