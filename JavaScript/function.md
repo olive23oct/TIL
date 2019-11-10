@@ -7,15 +7,15 @@
 ```js
 function ooo(x) { return x*x }
 ```
-1. 함수 리터럴로 정의하는 방법
+2. 함수 리터럴로 정의하는 방법
 ```js
 var ooo = function(x){ return x*x }
 ```
-1. Function 생성자로 정의하는 방법
+3. Function 생성자로 정의하는 방법
 ```js 
 var ooo = new Function("x", "return x*x")
 ```
-1. 화살표 함수 표현식으로 정의하는 방법
+4. 화살표 함수 표현식으로 정의하는 방법
 ```js
 var ooo = x => x*x;
 ```
