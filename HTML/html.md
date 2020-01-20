@@ -42,3 +42,29 @@
 '|\&apos;
 ©|\&copy;
 
+### Link
+- \<a href="이동예정경로">
+- target 
+    - _self 
+    - _blank : 새탭에서 열기
+
+### 공간 분할
+- block 
+    - p, div
+- inline : 컨텐츠만 적용
+    - strong, a, span
+- semantic 
+    - \<article>
+    - \<aside> : article이 아닌 부분. 광고배너 등 
+    - \<details>
+    - \<figcaption>
+    - \<figure>
+    - \<footer>
+    - \<header>
+    - \<main>
+    - \<mark>
+    - \<nav>
+    - \<section>
+    - \<summary>
+    - \<time>
+    
