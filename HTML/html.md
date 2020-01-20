@@ -50,16 +50,16 @@
 
 ### 공간 분할
 - block 
-    - p, div
+    - p, div부터 적용
 - inline : 컨텐츠만 적용
     - strong, a, span
-- semantic 
+- semantic : html5
     - \<article>
-    - \<aside> : article이 아닌 부분. 광고배너 등 
+    - \<aside> : article이 아닌 부분. 항상 옆에 붙는 것이 아님. 광고배너 등을 표시할 때 사용 
     - \<details>
     - \<figcaption>
     - \<figure>
-    - \<footer>
+    - \<footer> : 최하단 고정 시 clear 사용
     - \<header>
     - \<main>
     - \<mark>
