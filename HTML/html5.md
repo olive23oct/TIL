@@ -70,6 +70,6 @@
 \<rt>|	Defines an explanation/pronunciation of characters (for East Asian typography)
 \<ruby>|	Defines a ruby annotation (for East Asian typography)
 \<section>|	Defines a section in a document
-\<summary>|	Defines a visible heading for a <details> element
+\<summary>|	Defines a visible heading for a \<details> element
 \<time>|	Defines a date/time
 \<wbr>|	Defines a possible line-break
