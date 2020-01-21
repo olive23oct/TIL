@@ -34,26 +34,42 @@
 - 파일 API 지원 : 파일 업로드와 파일 관리 기능 제공
 - 웹 소켓 API 제공 : 서버와 브라우저 간의 양방향 통신 기능 제공
 
+### semantic
+- \<article>
+- \<aside> : article이 아닌 부분. 항상 옆에 붙는 것이 아님. 광고배너 등을 표시할 때 사용 
+- \<details>
+- \<figcaption>
+- \<figure>
+- \<footer> : 최하단 고정 시 clear 사용
+- \<header>
+- \<main>
+- \<mark>
+- \<nav>
+- \<section>
+- \<summary>
+- \<time>
+
 ### HTML5 tag
 태그|정의
+---|---
 \<article>|Defines an article in a document
 \<aside>|	Defines content aside from the page content
 \<bdi>|	Isolates a part of text that might be formatted in a different direction from other text outside it
 \<details>|	Defines additional details that the user can view or hide
-\<dialog>	Defines a dialog box or window
-\<figcaption>	Defines a caption for a <figure> element
-\<figure>	Defines self-contained content
-\<footer>	Defines a footer for a document or section
-\<header>	Defines a header for a document or section
-\<main>	Defines the main content of a document
-\<mark>	Defines marked/highlighted text
-\<meter>	Defines a scalar measurement within a known range (a gauge)
-\<nav>	Defines navigation links
-\<progress>	Represents the progress of a task
-\<rp>	Defines what to show in browsers that do not support ruby annotations
-\<rt>	Defines an explanation/pronunciation of characters (for East Asian typography)
-\<ruby>	Defines a ruby annotation (for East Asian typography)
-\<section>	Defines a section in a document
-\<summary>	Defines a visible heading for a <details> element
-\<time>	Defines a date/time
-\<wbr>	Defines a possible line-break
+\<dialog>|	Defines a dialog box or window
+\<figcaption>|	Defines a caption for a <figure> element
+\<figure>|	Defines self-contained content
+\<footer>|	Defines a footer for a document or section
+\<header>|	Defines a header for a document or section
+\<main>|	Defines the main content of a document
+\<mark>|	Defines marked/highlighted text
+\<meter>|	Defines a scalar measurement within a known range (a gauge)
+\<nav>|	Defines navigation links
+\<progress>|	Represents the progress of a task
+\<rp>|	Defines what to show in browsers that do not support ruby annotations
+\<rt>|	Defines an explanation/pronunciation of characters (for East Asian typography)
+\<ruby>|	Defines a ruby annotation (for East Asian typography)
+\<section>|	Defines a section in a document
+\<summary>|	Defines a visible heading for a <details> element
+\<time>|	Defines a date/time
+\<wbr>|	Defines a possible line-break
