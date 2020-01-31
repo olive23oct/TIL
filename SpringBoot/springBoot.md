@@ -80,3 +80,8 @@
 
 
 ##### haproxy
+
+### Convention Over Configuration, CoC
+- 설정 보다는 관습(coding by convention)
+- 개발자가 설정해야 하는 것은 어플리케이션의 관례를 따르지 않는 점 뿐이다
+- 디폴트 설정이 아닐 때만 추가적인 설정을 하고 다른 것과 같은 설정일 때는 자동으로 처리
