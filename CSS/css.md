@@ -1,34 +1,29 @@
-# CSS
-
-구조화된 문서를 순차적, 종속적으로 디자인하는 문서
-
-inline css가 internal css보다 우선 적용  
-internal, external css의 우선 순위는 동일  
-\<style>이 \<link>보다 하위에 위치할 경우 internal style이 적용됨  
+# CSS(Cascading Style Sheet)
+- 구조화된 문서를 순차적, 종속적으로 디자인하는 문서
+- inline css가 internal css보다 우선 적용  
+- internal, external css의 우선 순위는 동일  
+- \<style>이 \<link>보다 하위에 위치할 경우 internal style이 적용됨  
 
 ## 1. Three ways to insert CSS
-External CSS  
-하나의 파일로 여러 웹 페이지에 적용할 수 있음  
-link style  
-\<link href="style.css" rel="stylesheet" type="text/css">  
-Internal CSS  
-embedding style   
-head section에 작성  
-tag(선택자 Selector) { Property(: Value; } (선언 블록 Declaration block)  
+1. External CSS  
+- 하나의 파일로 여러 웹 페이지에 적용할 수 있음  
+2. link style  
+- \<link href="style.css" rel="stylesheet" type="text/css">  
+3. Internal CSS  
+- embedding style   
+- head section에 작성  
+- tag(선택자 Selector) { Property(: Value; } (선언 블록 Declaration block)  
 ```html
 tag { 
     Property: Value;
 }
 ```
-comment : /* */  
-Inline CSS  
-style attribute  
 
 ## 2. css selector
-element : 태그  
-id : 특정 요소만 적용  
-class : 특정 분류 전체 적용  
-group : 콤마로 연결  
+- element : 태그  
+- id : 특정 요소만 적용  
+- class : 특정 분류 전체 적용  
+- group : 콤마로 연결  
 
 
 종류 |예제| 점수
@@ -42,10 +37,10 @@ pseudo-class|first-child|10
 *(전체)|*, body*|0
 
 ## 3. color
-RGB(red, green, blue)  
-16진수  
-ff = 255  
-[color hunt](https://colorhunt.co/)  
+- RGB(red, green, blue)  
+- 16진수  
+- ff = 255  
+- [color hunt](https://colorhunt.co/)  
 
 
 ## background
