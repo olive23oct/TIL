@@ -25,3 +25,4 @@
 - 자바 어노테이션을 사용
 2. Servlet 3.0 spec 미만
 - Servlet을 등록할 때 web.xml 파일에 등록
+
