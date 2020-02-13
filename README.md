@@ -5,9 +5,8 @@
 - [JavaScript](./JavaScript)
 - React
 - [Java](./Java/)
-- Spring 
+- Spring(./Spring)
 - [SpringBoot](./SpringBoot)
 - DataBase
-    - SQL
 - HTTP    
 - [면접용](./면접자료) 
