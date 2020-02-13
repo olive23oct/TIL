@@ -7,6 +7,6 @@
 - [Java](./Java/)
 - Spring(./Spring)
 - [SpringBoot](./SpringBoot)
-- DataBase
+- Database(./Database)
 - HTTP    
 - [면접용](./면접자료) 
